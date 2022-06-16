@@ -1,0 +1,16 @@
+C1B0085|Steering Angle Sensor Bus Signal / Message Failures Signal above allowable range;
+C1B008F|Steering Angle Sensor Bus Signal / Message Failures Erratic;
+C1B009A|Steering Angle Sensor Component Failures Component or System Operating Conditions;
+U002800|Chassis CAN  ;
+U002888|Chassis CAN Bus Signal / Message Failures Bus off;
+"U102294|ECU Quiescent Current Too High, No Network Communication Requested  Component Failures Unexpected operation;"
+U120100|Intermittent Communication Problem with Chassis CAN Domain Master  ;
+U230054|Central Configuration System Programming Failures Missing calibration;
+U230055|Central Configuration System Programming Failures Not configured;
+U230056|Central Configuration System Programming Failures Invalid / incompatible configuration;
+U230057|Central Configuration System Programming Failures Invalid / Incompatible Software Component;
+U2C3681|Invalid Data Received in Vehicle Speed Signal Bus Signal / Message Failures Invalid serial data received;
+U2C3687|Invalid Data Received in Vehicle Speed Signal Bus Signal / Message Failures Missing message;
+U2E0368|ECU Supply Voltage Too High  Algorithm Based Failures Event information;
+U2E0468|ECU Supply Voltage Too Low Algorithm Based Failures Event information;
+U300362|Supply Voltage Algorithm Based Failures Signal compare failure;

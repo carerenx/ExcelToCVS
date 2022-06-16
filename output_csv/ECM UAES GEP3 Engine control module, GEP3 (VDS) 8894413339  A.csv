@@ -1,0 +1,659 @@
+P000A00|Intake (A) Camshaft Position Slow Response Bank 1  ;
+P000B00|Exhaust (B) Camshaft Position Slow Response Bank 1  ;
+P001000|Intake (A) Camshaft Position Actuator Circuit/Open (Bank 1)  ;
+P001300|Exhaust (B) Camshaft Position Actuator Circuit/Open (Bank 1)  ;
+P001676|Crankshaft Position - Camshaft Position Correlation - Bank 1 Sensor A Mechanical Failures Wrong mounting position;
+P001678|Crankshaft Position - Camshaft Position Correlation - Bank 1 Sensor A Mechanical Failures Alignment or adjustment incorrect;
+P001776|Crankshaft Position - Camshaft Position Correlation - Bank 1 Sensor B Mechanical Failures Wrong mounting position;
+P001778|Crankshaft Position - Camshaft Position Correlation - Bank 1 Sensor B Mechanical Failures Alignment or adjustment incorrect;
+"P003000|HO2S Heater Control Circuit (Bank 1, Sensor 1)  ;"
+"P003100|HO2S Heater Control Circuit Low (Bank 1, Sensor 1)  ;"
+"P003200|HO2S Heater Control Circuit High (Bank 1, Sensor 1)  ;"
+"P003300|Turbocharger/Supercharger Bypass Valve ""A"" Control Circuit/Open  ;"
+"P003400|Turbocharger/Supercharger Bypass Valve ""A""Control Circuit Low  ;"
+"P003500|Turbocharger/Supercharger Bypass Valve ""A"" Control Circuit High  ;"
+"P003600|HO2S Heater Control Circuit (Bank 1, Sensor 2)  ;"
+"P003700|HO2S Heater Control Circuit Low (Bank 1, Sensor 2)  ;"
+"P003800|HO2S Heater Control Circuit High (Bank 1, Sensor 2)  ;"
+"P003A21|Turbocharger/Supercharger Boost Control ""A"" Position Exceeded Learning Limit General Signal Failures Signal amplitude < minimum;"
+"P003A22|Turbocharger/Supercharger Boost Control ""A"" Position Exceeded Learning Limit General Signal Failures Signal amplitude > maximum;"
+"P003A72|Turbocharger/Supercharger Boost Control ""A"" Position Exceeded Learning Limit Mechanical Failures Actuator stuck open;"
+"P003A73|Turbocharger/Supercharger Boost Control ""A"" Position Exceeded Learning Limit Mechanical Failures Actuator stuck closed;"
+P003C00|A Camshaft Profile Control Performance /Stuck Off (Bank 1)  ;
+"P004600|Turbocharger/Supercharger Boost Control ""A"" Circuit Range/Performance  ;"
+"P004700|Turbocharger/Supercharger Boost Control ""A"" Circuit Low  ;"
+"P004800|Turbocharger/Supercharger Boost Control ""A"" Circuit High  ;"
+"P005300|HO2S Heater Resistance (Bank 1, Sensor 1)  ;"
+"P005400|HO2S Heater Resistance (Bank 1, Sensor 2)  ;"
+P005A00|B Camshaft Profile Control Performance / Stuck Off (Bank 1)  ;
+"P007000|Ambient Air Temperature Sensor Circuit ""A""  ;"
+"P007121|Ambient Air Temperature Sensor Circuit ""A"" Range/Performance General Signal Failures Signal amplitude < minimum;"
+"P007122|Ambient Air Temperature Sensor Circuit ""A"" Range/Performance General Signal Failures Signal amplitude > maximum;"
+"P007200|Ambient Air Temperature Sensor Circuit ""A"" Low  ;"
+"P007300|Ambient Air Temperature Sensor Circuit ""A"" High  ;"
+P008700|Fuel Rail/System Pressure - Too Low  ;
+P008800|Fuel Rail/System Pressure - Too High  ;
+P008984|Fuel Pressure Regulator Performance Bus Signal / Message Failures Signal below allowable range;
+P008985|Fuel Pressure Regulator Performance Bus Signal / Message Failures Signal above allowable range;
+P008A00|Low Pressure Fuel System Pressure - Too Low  ;
+P008B00|Low Pressure Fuel System Pressure - Too High  ;
+P009000|Fuel Pressure Regulator 1 Control Circuit/Open  ;
+P009100|Fuel Pressure Regulator 1 Control Circuit Low  ;
+P009121|Fuel Pressure Regulator 1 Control Circuit Low General Signal Failures Signal amplitude < minimum;
+P009200|Fuel Pressure Regulator 1 Control Circuit High  ;
+P009600|Intake Air Temperature Sensor 2 Circuit Range/Performance (Bank 1)  ;
+P009621|Intake Air Temperature Sensor 2 Circuit Range/Performance (Bank 1) General Signal Failures Signal amplitude < minimum;
+P009622|Intake Air Temperature Sensor 2 Circuit Range/Performance (Bank 1) General Signal Failures Signal amplitude > maximum;
+P009700|Intake Air Temperature Sensor 2 Circuit Low (Bank 1)  ;
+P009800|Intake Air Temperature Sensor 2 Circuit High (Bank 1)  ;
+P009900|Intake Air Temperature Sensor 2 Circuit Intermittent/Erratic (Bank 1)  ;
+P00CE23|Intake Air Temperature Measurement System - Multiple Sensor Correlation General Signal Failures Signal stuck low;
+P00CE24|Intake Air Temperature Measurement System - Multiple Sensor Correlation General Signal Failures Signal stuck high;
+"P00CF00|Barometric Pressure - Turbocharger/Supercharger Boost Sensor ""A"" Correlation  ;"
+P00E921|Intake Air Temperature Sensor 3 Circuit Range/Performance Bank 1 General Signal Failures Signal amplitude < minimum;
+P00E922|Intake Air Temperature Sensor 3 Circuit Range/Performance Bank 1 General Signal Failures Signal amplitude > maximum;
+P00E92A|Intake Air Temperature Sensor 3 Circuit Range/Performance Bank 1 General Signal Failures Signal Stuck In Range;
+P00EA00|Intake Air Temperature Sensor 3 Circuit Low Bank 1  ;
+P00EA85|Intake Air Temperature Sensor 3 Circuit Low Bank 1 Bus Signal / Message Failures Signal above allowable range;
+P00EB00|Intake Air Temperature Sensor 3 Circuit High Bank 1  ;
+P00EB84|Intake Air Temperature Sensor 3 Circuit High Bank 1 Bus Signal / Message Failures Signal below allowable range;
+P00EC1C|Intake Air Temperature Sensor 3 Circuit Intermittent/Erratic Bank 1 General Electrical Failures Circuit voltage out of range;
+P00EC31|Intake Air Temperature Sensor 3 Circuit Intermittent/Erratic Bank 1 FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures No signal;
+P00EC86|Intake Air Temperature Sensor 3 Circuit Intermittent/Erratic Bank 1 Bus Signal / Message Failures Signal invalid;
+P00EC96|Intake Air Temperature Sensor 3 Circuit Intermittent/Erratic Bank 1 Component Failures Component internal failure;
+P00FE00|EVAP System Tank Vapor Line Restricted/Blocked  ;
+"P010000|Mass or Volume Air Flow Sensor ""A"" Circuit  ;"
+"P010096|Mass or Volume Air Flow Sensor ""A"" Circuit Component Failures Component internal failure;"
+"P0100A1|Mass or Volume Air Flow Sensor ""A"" Circuit General Electrical Failures System Voltage;"
+"P010100|Mass or Volume Air Flow Sensor ""A"" Circuit Range/Performance  ;"
+"P010109|Mass or Volume Air Flow Sensor ""A"" Circuit Range/Performance  Component Failures;"
+"P010149|Mass or Volume Air Flow Sensor ""A"" Circuit Range/Performance System Internal Failures Internal electronic failure;"
+"P010200|Mass or Volume Air Flow Sensor ""A"" Circuit Low  ;"
+P01021C|Mass or Volume Air  General Electrical Failures Circuit voltage out of range;
+"P010300|Mass or Volume Air Flow Sensor ""A"" Circuit High  ;"
+P01031C|Mass or Volume Air F General Electrical Failures Circuit voltage out of range;
+P010600|Manifold Absolute Pressure/Barometric Pressure Sensor Circuit Range/Performance  ;
+P010602|Manifold Absolute Pressure/Barometric Pressure Sensor Circuit Range/Performance  General signal failure;
+P010621|Manifold Absolute Pressure/Barometric Pressure Sensor Circuit Range/Performance General Signal Failures Signal amplitude < minimum;
+P010622|Manifold Absolute Pressure/Barometric Pressure Sensor Circuit Range/Performance General Signal Failures Signal amplitude > maximum;
+P010700|Manifold Absolute Pressure/Barometric Pressure Sensor Circuit Low  ;
+P010800|Manifold Absolute Pressure/Barometric Pressure Sensor Circuit High  ;
+P011126|Intake Air Temperature Sensor 1 Circuit Range/Performance (Bank 1) General Signal Failures Signal rate of change below threshold;
+P011200|Intake Air Temperature Sensor 1 Circuit Low (Bank 1)  ;
+P011300|Intake Air Temperature Sensor 1 Circuit High (Bank 1)  ;
+P011400|Intake Air Temperature Sensor 1 Intermittent/Erratic (Bank 1)  ;
+P011621|Engine Coolant Temperature Sensor 1 Circuit Range/Performance General Signal Failures Signal amplitude < minimum;
+P011622|Engine Coolant Temperature Sensor 1 Circuit Range/Performance General Signal Failures Signal amplitude > maximum;
+P011623|Engine Coolant Temperature Sensor 1 Circuit Range/Performance General Signal Failures Signal stuck low;
+P01162A|Engine Coolant Temperature Sensor 1 Circuit Range/Performance General Signal Failures Signal Stuck In Range;
+P011700|Engine Coolant Temperature Sensor 1 Circuit Low  ;
+P011800|Engine Coolant Temperature Sensor 1 Circuit High  ;
+P011900|Engine Coolant Temperature Sensor 1 Circuit Intermittent/Erratic  ;
+"P012164|Throttle/Pedal Position Sensor ""A"" Circuit Range/Performance Algorithm Based Failures Signal plausibility failure;"
+"P012200|Throttle/Pedal Position Sensor ""A"" Circuit Low  ;"
+"P012300|Throttle/Pedal Position Sensor ""A"" Circuit High  ;"
+P012800|Coolant Thermostat (Coolant Temp Below Thermostat Regulating Temperature)  ;
+P012807|Coolant Thermostat (Coolant Temp Below Thermostat Regulating Temperature)  Mechanical Failures;
+P013000|O2 Sensor Circuit (Bank 1 Sensor 1)  ;
+P013100|O2 Sensor Circuit Low Voltage (Bank 1 Sensor 1)  ;
+P013200|O2 Sensor Circuit High Voltage (Bank 1 Sensor 1)  ;
+P013300|O2 Sensor Circuit Slow Response (Bank 1 Sensor 1)  ;
+P013600|O2 Sensor Circuit (Bank 1 Sensor 2)  ;
+P013700|O2 Sensor Circuit Low Voltage (Bank 1 Sensor 2)  ;
+P013800|O2 Sensor Circuit High Voltage (Bank 1 Sensor 2)  ;
+P013900|O2 Sensor Circuit Slow Response (Bank 1 Sensor 2)  ;
+P013A00|O2 Sensor Slow Response - Rich to Lean (Bank 1 and  Sensor 2)  ;
+"P013B00|O2 Sensor Slow Response - Lean to Rich (Bank 1, Sensor 2)  ;"
+P016A00|Excessive Time To Enter Closed Loop Air/Fuel Ratio Control  ;
+P016A68|Excessive Time To Enter Closed Loop Air/Fuel Ratio Control Algorithm Based Failures Event information;
+P016E00|Closed Loop Fuel Pressure Control At Limit - Pressure Too High  ;
+P016F00|Closed Loop Fuel Pressure Control At Limit - Pressure Too Low  ;
+P017100|System Too Lean (Bank 1)  ;
+P017200|System Too Rich (Bank 1)  ;
+"P019000|Fuel Rail Pressure Sensor ""A"" Circuit  ;"
+"P019128|Fuel Rail Pressure Sensor ""A"" Circuit Range/Performance General Signal Failures Signal bias level out of range / zero adjustment failure;"
+"P019129|Fuel Rail Pressure Sensor ""A"" Circuit Range/Performance General Signal Failures Signal signal invalid;"
+"P019185|Fuel Rail Pressure Sensor ""A"" Circuit Range/Performance Bus Signal / Message Failures Signal above allowable range;"
+"P019200|Fuel Rail Pressure Sensor ""A"" Circuit Low  ;"
+"P019300|Fuel Rail Pressure Sensor ""A"" Circuit High  ;"
+"P019400|Fuel Rail Pressure Sensor ""A"" Circuit Intermittent/Erratic  ;"
+"P019602|Engine Oil Temperature Sensor ""A"" Range/Performance  General signal failure;"
+"P01961C|Engine Oil Temperature Sensor ""A"" Range/Performance General Electrical Failures Circuit voltage out of range;"
+"P019621|Engine Oil Temperature Sensor ""A"" Range/Performance General Signal Failures Signal amplitude < minimum;"
+"P019622|Engine Oil Temperature Sensor ""A"" Range/Performance General Signal Failures Signal amplitude > maximum;"
+"P01962A|Engine Oil Temperature Sensor ""A"" Range/Performance General Signal Failures Signal Stuck In Range;"
+"P01C42A|Fuel Pressure Sensor ""A"" Circuit Range/Performance General Signal Failures Signal Stuck In Range;"
+"P01C500|Fuel Pressure Sensor ""A"" Circuit Low  ;"
+"P01C600|Fuel Pressure Sensor ""A"" Circuit High  ;"
+P020100|Cylinder 1 Injector Circuit/Open  ;
+P020200|Cylinder 2 Injector Circuit/Open  ;
+P020300|Cylinder 3 Injector Circuit/Open  ;
+P020400|Cylinder 4 Injector Circuit/Open  ;
+P021700|Engine Coolant Overtemperature Condition  ;
+"P022164|Throttle/Pedal Position Sensor/Switch ""B"" Circuit Range/Performance Algorithm Based Failures Signal plausibility failure;"
+"P022200|Throttle/Pedal Position Sensor/Switch ""B"" Circuit Low  ;"
+"P022300|Throttle/Pedal Position Sensor/Switch ""B"" Circuit High  ;"
+"P023400|Turbocharger/Supercharger ""A"" Overboost Condition  ;"
+"P023600|Turbocharger/Supercharger Boost Sensor ""A"" Circuit Range/Performance  ;"
+"P023621|Turbocharger/Supercharger Boost Sensor ""A"" Circuit Range/Performance General Signal Failures Signal amplitude < minimum;"
+"P023622|Turbocharger/Supercharger Boost Sensor ""A"" Circuit Range/Performance General Signal Failures Signal amplitude > maximum;"
+"P023700|Turbocharger/Supercharger Boost Sensor ""A"" Circuit Low  ;"
+"P023800|Turbocharger/Supercharger Boost Sensor ""A"" Circuit High  ;"
+"P023D00|Manifold Absolute Pressure - Turbocharger/Supercharger Boost Sensor ""A"" Correlation  ;"
+P024300|Turbocharger/Supercharger Wastegate Solenoid A  ;
+"P024437|Turbocharger/Supercharger Wastegate Solenoid ""A"" Range/Performance FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal frequency too high;"
+"P024449|Turbocharger/Supercharger Wastegate Solenoid ""A"" Range/Performance System Internal Failures Internal electronic failure;"
+"P024477|Turbocharger/Supercharger Wastegate Solenoid ""A"" Range/Performance Mechanical Failures Commanded position not reachable;"
+"P024600|Turbocharger/Supercharger Wastegate Solenoid ""A"" High  ;"
+"P025A00|Fuel Pump Module ""A"" Control Circuit/Open  ;"
+"P025B1C|Fuel Pump Module ""A"" Control Circuit Range/Performance General Electrical Failures Circuit voltage out of range;"
+"P025B44|Fuel Pump Module ""A"" Control Circuit Range/Performance System Internal Failures Data memory failure;"
+"P025B49|Fuel Pump Module ""A"" Control Circuit Range/Performance System Internal Failures Internal electronic failure;"
+"P025B4B|Fuel Pump Module ""A"" Control Circuit Range/Performance System Internal Failures Over temperature;"
+"P025B71|Fuel Pump Module ""A"" Control Circuit Range/Performance Mechanical Failures Actuator stuck;"
+"P025B98|Fuel Pump Module ""A"" Control Circuit Range/Performance Component Failures Component or system over temperature;"
+"P025C00|Fuel Pump Module ""A"" Control Circuit Low  ;"
+"P025D00|Fuel Pump Module ""A"" Control Circuit High  ;"
+P026100|Cylinder 1 Injector Circuit Low  ;
+P026400|Cylinder 2 Injector Circuit Low  ;
+P026700|Cylinder 3 Injector Circuit Low  ;
+P027000|Cylinder 4 Injector Circuit Low  ;
+"P029900|Turbocharger/Supercharger ""A"" Underboost Condition  ;"
+P02CC00|Cylinder 1 Fuel Injector Offset Learning at Min Limit  ;
+P02CD00|Cylinder 1 Fuel Injector Offset Learning at Max Limit  ;
+P02CE00|Cylinder 2 Fuel Injector Offset Learning at Min Limit  ;
+P02CF00|Cylinder 2 Fuel Injector Offset Learning at Max Limit  ;
+P02D000|Cylinder 3 Fuel Injector Offset Learning at Min Limit  ;
+P02D100|Cylinder 3 Fuel Injector Offset Learning at Max Limit  ;
+P02D200|Cylinder 4 Fuel Injector Offset Learning at Min Limit  ;
+P02D300|Cylinder 4 Fuel Injector Offset Learning at Max Limit  ;
+P02EE00|Cylinder 1 Injector Circuit Range/Performance  ;
+P02EF00|Cylinder 2 Injector Circuit Range/Performance  ;
+P02F000|Cylinder 3 Injector Circuit Range/Performance  ;
+P02F100|Cylinder 4 Injector Circuit Range/Performance  ;
+P030000|Random Misfire Detected  ;
+P030092|Random Misfire Detected Component Failures Performance or incorrect operation;
+P030098|Random Misfire Detected Component Failures Component or system over temperature;
+P030100|Cylinder 1 Misfire Detected  ;
+P030200|Cylinder 2 Misfire Detected  ;
+P030300|Cylinder 3 Misfire Detected  ;
+P030400|Cylinder 4 Misfire Detected  ;
+P032500|Knock/Combustion Vibration Sensor 1 Circuit (Bank 1)  ;
+P032600|Knock/Combustion Vibration Sensor 1 Circuit Range/Performance (Bank 1)  ;
+P032700|Knock/Combustion Vibration Sensor 1 Circuit Low (Bank1)  ;
+P032714|Knock/Combustion Vibration Sensor 1 Circuit Low (Bank1) General Electrical Failures Circuit short to ground or open;
+P032800|Knock/Combustion Vibration Sensor 1 Circuit High (Bank 1)  ;
+P032815|Knock/Combustion Vibration Sensor 1 Circuit High (Bank 1) General Electrical Failures Circuit short to battery or open;
+"P033500|Crankshaft Position Sensor ""A"" Circuit  ;"
+"P033900|Crankshaft Position Sensor ""A"" Circuit Intermittent  ;"
+"P034100|Camshaft Position Sensor ""A"" Circuit Range/Performance (Bank 1 or single sensor)  ;"
+"P034200|Camshaft Position Sensor ""A"" Circuit Low (Bank 1 or single sensor)  ;"
+"P034300|Camshaft Position Sensor ""A"" Circuit High (Bank 1 or single sensor)  ;"
+"P035100|Ignition Coil ""A"" Primary Control Circuit/Open  ;"
+"P035200|Ignition Coil ""B"" Primary Control Circuit/Open  ;"
+"P035300|Ignition Coil ""C"" Primary Control Circuit/Open  ;"
+"P035400|Ignition Coil ""D"" Primary Control Circuit/Open  ;"
+P036300|Misfire Detected - Fueling Disabled  ;
+"P036600|Camshaft Position Sensor ""B"" Circuit Range/Performance (Bank 1)  ;"
+"P036700|Camshaft Position Sensor ""B"" Circuit Low (Bank 1)  ;"
+"P036800|Camshaft Position Sensor ""B"" Circuit High (Bank 1)  ;"
+P042000|Catalyst System Efficiency Below Threshold (Bank 1)  ;
+P043E00|Evaporative Emission System Leak Detection Reference Orifice Low Flow  ;
+P043F00|Evaporative Emission System Leak Detection Reference Orifice High Flow  ;
+P044100|Evaporative Emission System Incorrect Purge Flow  ;
+P044200|Evaporative Emission System Leak Detected (small leak)  ;
+"P044400|Evaporative Emission System Purge Control Valve ""A"" Circuit Open  ;"
+P044700|Evaporative Emission System Vent Control Circuit Open  ;
+P045121|Evaporative Emission System Pressure Sensor/Switch Range/Performance General Signal Failures Signal amplitude < minimum;
+P045122|Evaporative Emission System Pressure Sensor/Switch Range/Performance General Signal Failures Signal amplitude > maximum;
+P045125|Evaporative Emission System Pressure Sensor/Switch Range/Performance General Signal Failures Signal shape / waveform failure;
+P045128|Evaporative Emission System Pressure Sensor/Switch Range/Performance General Signal Failures Signal bias level out of range / zero adjustment failure;
+P04512A|Evaporative Emission System Pressure Sensor/Switch Range/Performance General Signal Failures Signal Stuck In Range;
+P045200|Evaporative Emission System Pressure Sensor/Switch Low  ;
+P045300|Evaporative Emission System Pressure Sensor/Switch High  ;
+P045500|Evaporative Emission System Leak Detected (gross leak/no flow)  ;
+P045600|Evaporative Emission System Leak Detected (very small leak)  ;
+P045800|Evaporative Emission System Purge Control Valve Circuit Low  ;
+P045900|Evaporative Emission System Purge Control Valve Circuit High  ;
+"P046000|Fuel Level Sensor ""A"" Circuit  ;"
+"P04611C|Fuel Level Sensor ""A General Electrical Failures Circuit voltage out of range;"
+P046129|Fuel Level Sensor General Signal Failures Signal signal invalid;
+"P046200|Fuel Level Sensor ""A"" Circuit Low  ;"
+"P046300|Fuel Level Sensor ""A"" Circuit High  ;"
+P046621|Evaporative Emission System Purge Flow Sensor Circuit Range/Performance General Signal Failures Signal amplitude < minimum;
+P046622|Evaporative Emission System Purge Flow Sensor Circuit Range/Performance General Signal Failures Signal amplitude > maximum;
+P046700|Evaporative Emission System Purge Flow Sensor Circuit Low  ;
+P046800|Evaporative Emission System Purge Flow Sensor Circuit High  ;
+P048000|Fan 1 Control Circuit  ;
+P048100|Fan 2 Control Circuit  ;
+P048307|Fan Performance  Mechanical Failures;
+P048349|Fan Performance System Internal Failures Internal electronic failure;
+P04834B|Fan Performance System Internal Failures Over temperature;
+P048398|Fan Performance Component Failures Component or system over temperature;
+P0483A1| General Electrical Failures System Voltage;
+P049600|Evaporative Emission System High Purge Flow  ;
+P049700|Evaporative Emission System Low Purge Flow  ;
+P049800|Evaporative Emission System Vent Control Circuit Low  ;
+P049900|Evaporative Emission System Vent Control Circuit High  ;
+P04DB00|Crankcase Ventilation System Disconnected  ;
+P04F000|EVAP System High Pressure Purge Line Performance  ;
+"P050400|Brake Switch ""A""/"" B"" Correlation  ;"
+P050600|Idle Control System - RPM Lower Than Expected  ;
+P050700|Idle Control System - RPM Higher Than Expected  ;
+P050A21|Cold Start Idle Control System Performance General Signal Failures Signal amplitude < minimum;
+P050A22|Cold Start Idle Control System Performance General Signal Failures Signal amplitude > maximum;
+P050B00|Cold Start Ignition Timing Performance  ;
+P050B77|Cold Start Ignition Timing Performance Mechanical Failures Commanded position not reachable;
+P051300|Incorrect Immobilizer Key  ;
+"P052123|Engine Oil Pressure Sensor/Switch ""A"" Circuit Range/Performance General Signal Failures Signal stuck low;"
+"P052124|Engine Oil Pressure Sensor/Switch ""A"" Circuit Range/Performance General Signal Failures Signal stuck high;"
+"P052200|Engine Oil Pressure Sensor/Switch ""A"" Circuit Low  ;"
+"P052300|Engine Oil Pressure Sensor/Switch ""A"" Circuit High  ;"
+P052400|Engine Oil Pressure Too Low  ;
+P052409|Engine Oil Pressure Too Low  Component Failures;
+P052A00|Cold Start Intake (A) Camshaft Position Timing Over-Advanced (Bank 1)  ;
+"P053100|A/C Refrigerant Pressure Sensor ""A"" Circuit Range/Performance  ;"
+"P053200|A/C Refrigerant Pressure Sensor ""A"" Circuit Low  ;"
+"P053300|A/C Refrigerant Pressure Sensor ""A"" Circuit High  ;"
+P053400|A/C Refrigerant Charge Loss  ;
+P053F21|Cold Start Fuel Pressure Performance General Signal Failures Signal amplitude < minimum;
+P053F22|Cold Start Fuel Pressure Performance General Signal Failures Signal amplitude > maximum;
+P054A00|Cold Start Exhaust (B) Camshaft Position Timing Over-Advanced (Bank 1)  ;
+P055600|Brake Booster Pressure Sensor Circuit Range/Performance  ;
+P055700|Brake Booster Pressure Sensor Circuit Low  ;
+P055800|Brake Booster Pressure Sensor Circuit High  ;
+"P055A02|Engine Oil Pressure Sensor/Switch ""B"" Circuit  General signal failure;"
+"P055A09|Engine Oil Pressure Sensor/Switch ""B"" Circuit  Component Failures;"
+"P055A29|Engine Oil Pressure Sensor/Switch ""B"" Circuit General Signal Failures Signal signal invalid;"
+"P055B02|Engine Oil Pressure Sensor/Switch ""B"" Circuit Range/Performance  General signal failure;"
+"P055B1C|Engine Oil Pressure Sensor/Switch ""B"" Circuit Range/Performance General Electrical Failures Circuit voltage out of range;"
+"P055C00|Engine Oil Pressure Sensor/Switch ""B"" Circuit Low  ;"
+"P055D00|Engine Oil Pressure Sensor/Switch ""B"" Circuit High  ;"
+P055F21|Engine Oil Pressure Out of Range General Signal Failures Signal amplitude < minimum;
+P055F22|Engine Oil Pressure Out of Range General Signal Failures Signal amplitude > maximum;
+P056200|System Voltage Low  ;
+P056300|System Voltage High  ;
+"P057100|Brake Switch ""A"" Circuit  ;"
+P05EC00|Cold Start Injection Timing Performance  ;
+P060100|Internal Control Module Memory Checksum Error  ;
+P060101|Internal Control Module Memory Checksum Error  General electrical failure;
+P060102|Internal Control Module Memory Checksum Error  General signal failure;
+P060108|Internal Control Module Memory Checksum Error  Bus Signal / Message Failures;
+P060109|Internal Control Module Memory Checksum Error  Component Failures;
+P06011B|Internal Control Module Memory Checksum Error General Electrical Failures Circuit resistance above threshold;
+P06011F|Internal Control Module Memory Checksum Error General Electrical Failures Circuit intermittent;
+P060125|Internal Control Module Memory Checksum Error General Signal Failures Signal shape / waveform failure;
+P060128|Internal Control Module Memory Checksum Error General Signal Failures Signal bias level out of range / zero adjustment failure;
+P060142|Internal Control Module Memory Checksum Error System Internal Failures General memory failure;
+P060144|Internal Control Module Memory Checksum Error System Internal Failures Data memory failure;
+P060145|Internal Control Module Memory Checksum Error System Internal Failures Program memory failure;
+P060148|Internal Control Module Memory Checksum Error System Internal Failures Supervision software failure;
+P060200|Control Module Programming Error  ;
+P060201|Control Module Programming Error  General electrical failure;
+P060202|Control Module Programming Error  General signal failure;
+P060203|Control Module Programming Error  FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures;
+P060242|Control Module Programming Error System Internal Failures General memory failure;
+P060243|Control Module Programming Error System Internal Failures Special memory failure;
+P060244|Control Module Programming Error System Internal Failures Data memory failure;
+P060245|Control Module Programming Error System Internal Failures Program memory failure;
+P060246|Control Module Programming Error System Internal Failures Calibration / parameter memory failure;
+P060247|Control Module Programming Error System Internal Failures Watchdog / safety µC failure;
+P060248|Control Module Programming Error System Internal Failures Supervision software failure;
+P06024A|Control Module Programming Error System Internal Failures Incorrect component installed;
+P060287|Control Module Programming Error Bus Signal / Message Failures Missing message;
+P060291|Control Module Programming Error Component Failures Parametric;
+P060402|Internal Control Module Random Access Memory (RAM) Error  General signal failure;
+P060406|Internal Control Module Random Access Memory (RAM) Error  Algorithm Based Failures;
+P060409|Internal Control Module Random Access Memory (RAM) Error  Component Failures;
+P060432|Internal Control Module Random Access Memory (RAM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal low time < minimum;
+P060433|Internal Control Module Random Access Memory (RAM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal low time > maximum;
+P060434|Internal Control Module Random Access Memory (RAM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal high time < minimum;
+P060435|Internal Control Module Random Access Memory (RAM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal high time > maximum;
+P060438|Internal Control Module Random Access Memory (RAM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal frequency incorrect;
+P060439|Internal Control Module Random Access Memory (RAM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Incorrect has too few pulses;
+P060447|Internal Control Module Random A System Internal Failures Watchdog / safety µC failure;
+P060463|Internal Control Module Random Access Memory (RAM) Error Algorithm Based Failures Circuit / component protection time-out;
+P060501|Internal Control Module Read Only Memory (ROM) Error  General electrical failure;
+P060532|Internal Control Module Read Only Memory (ROM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal low time < minimum;
+P060533|Internal Control Module Read Only Memory (ROM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal low time > maximum;
+P060534|Internal Control Module Read Only Memory (ROM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal high time < minimum;
+P060535|Internal Control Module Read Only Memory (ROM) Error FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal high time > maximum;
+P060542|Internal Control Module Read System Internal Failures General memory failure;
+P060545|Internal Control Module Read System Internal Failures Program memory failure;
+P060547|Internal Control Module Read System Internal Failures Watchdog / safety µC failure;
+P060548|Internal Control Module Read System Internal Failures Supervision software failure;
+P060549|Internal Control Module Read System Internal Failures Internal electronic failure;
+P06054B|Internal Control Module Read System Internal Failures Over temperature;
+P060563|Internal Control Module Read Only Memory (ROM) Error Algorithm Based Failures Circuit / component protection time-out;
+P06059A|Internal Control Module Read Only Memory (ROM) Error Component Failures Component or System Operating Conditions;
+P060600|Control Module Processor  ;
+P060601|Control Module Processor  General electrical failure;
+P060602|Control Module Processor  General signal failure;
+P060608|Control Module Processor  Bus Signal / Message Failures;
+P060609|Control Module Processor  Component Failures;
+P06061B|Control Module Processor General Electrical Failures Circuit resistance above threshold;
+P06061F|Control Module Processor General Electrical Failures Circuit intermittent;
+P060625|Control Module Processor General Signal Failures Signal shape / waveform failure;
+P060628|Control Module Processor General Signal Failures Signal bias level out of range / zero adjustment failure;
+P060642|Control Module Processor System Internal Failures General memory failure;
+P060644|Control Module Processor System Internal Failures Data memory failure;
+P060645|Control Module Processor System Internal Failures Program memory failure;
+P060648|Control Module Processor System Internal Failures Supervision software failure;
+P060661|Control Module Processor Algorithm Based Failures Signal calculation failure;
+P060700|Control Module Performance  ;
+P060704|Control Module Performance  System Internal Failures;
+P060708|Control Module Performance  Bus Signal / Message Failures;
+P060709|Control Module Performance  Component Failures;
+P060717|Control Module Performance General Electrical Failures Circuit voltage above threshold;
+P06071B|Control Module Performance General Electrical Failures Circuit resistance above threshold;
+P06071F|Control Module Performance General Electrical Failures Circuit intermittent;
+P060725|Control Module Performance General Signal Failures Signal shape / waveform failure;
+P060732| FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal low time < minimum;
+P060742|Control Module Performance System Internal Failures General memory failure;
+P060743|Control Module Performance System Internal Failures Special memory failure;
+P060744|Control Module Performance System Internal Failures Data memory failure;
+P060747|Control Module Performance System Internal Failures Watchdog / safety µC failure;
+P060748|Co System Internal Failures Supervision software failure;
+P060775|Control Module Performance Mechanical Failures Emergency position not reachable;
+P060787|Control Module Performance Bus Signal / Message Failures Missing message;
+P060A00|Internal Control Module Monitoring Processor Performance  ;
+P060A02|Internal Control Module Monitoring Processor Performance  General signal failure;
+P060A04|Internal Control Module Monitoring Processor Performance  System Internal Failures;
+P060A06|Internal Control Module Monitoring Processor Performance  Algorithm Based Failures;
+P060A08|Internal Control Module Monitoring Processor Performance  Bus Signal / Message Failures;
+P060A09|Internal Control Module Monitoring Processor Performance  Component Failures;
+P060A1B|Internal Control Module Monitoring Processor Performance General Electrical Failures Circuit resistance above threshold;
+P060A1F|Internal Control Module Monitoring Processor Performance General Electrical Failures Circuit intermittent;
+P060A25|Internal Control Module Monitoring Processor Performance General Signal Failures Signal shape / waveform failure;
+P060A2F|Internal Control Module Monitoring Processor Performance General Signal Failures Signal erratic;
+P060A42|Internal Control Module Monitoring Processor Performance System Internal Failures General memory failure;
+P060A48|Internal Control Module Monitoring Processor Performance System Internal Failures Supervision software failure;
+P060B02|Internal Control Module A/D Processing Performance  General signal failure;
+P060B17|Internal Control Module A/D Processing Performance General Electrical Failures Circuit voltage above threshold;
+P060B29|Internal Control Module A/D Processing Performance General Signal Failures Signal signal invalid;
+P060B41|Internal Control Module A/D Processing Performance System Internal Failures General checksum failure;
+P060B42|Internal Control Module A/D Processing Performance System Internal Failures General memory failure;
+P060B43|Internal Control Module A/D Processing Performance System Internal Failures Special memory failure;
+P060B45|Internal Control Module A/D Processing Performance System Internal Failures Program memory failure;
+P060B47|Internal Control Module A/D Processing Performance System Internal Failures Watchdog / safety µC failure;
+P060B48|Internal Control Module A/D Processing Performance System Internal Failures Supervision software failure;
+P060B49|Internal Control Module A/D Processing Performance System Internal Failures Internal electronic failure;
+P060B4B|Internal Control Module A/D Processing Performance System Internal Failures Over temperature;
+P060B86|Internal Control Module A/D Processing Performance Bus Signal / Message Failures Signal invalid;
+P060B98|Internal Control Module A/D Processing Performance Component Failures Component or system over temperature;
+P060B9A|Internal Control Module A/D Processing Performance Component Failures Component or System Operating Conditions;
+P060BA1|Internal Control Module A/D Processing Performance General Electrical Failures System Voltage;
+P060BA2|Internal Control Module A/D Processing Performance General Electrical Failures System Voltage Low;
+P060BA3|Internal Control Module A/D Processing Performance General Electrical Failures System Voltage High;
+P060C00|Internal Control Module Main Processor Performance  ;
+P060C02|Internal Control Module Main Processor Performance  General signal failure;
+P060C08|Internal Control Module Main Processor Performance  Bus Signal / Message Failures;
+P060C1F|Internal Control Module Main Processor Performance General Electrical Failures Circuit intermittent;
+P060C25|Internal Control Module Main Processor Performance General Signal Failures Signal shape / waveform failure;
+P060C28|Internal Control Module Main Processor Performance General Signal Failures Signal bias level out of range / zero adjustment failure;
+P060C2A|Internal Control Module Main Processor Performance General Signal Failures Signal Stuck In Range;
+P060C31|Internal Control Module Main Processor Performance FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures No signal;
+P060C41|Internal Control Module Main Processor Performance System Internal Failures General checksum failure;
+P060C42|Internal Control Module Main Processor Performance System Internal Failures General memory failure;
+P060C43|Internal Control Module Main Processor Performance System Internal Failures Special memory failure;
+P060C45|Internal Control Module Main Processor Performance System Internal Failures Program memory failure;
+P060C46|Internal Control Module Main Processor Performance System Internal Failures Calibration / parameter memory failure;
+P060C48|Internal Control Module Main Processor Performance System Internal Failures Supervision software failure;
+P060C94|Internal Control Module Main Processor Performance Component Failures Unexpected operation;
+P061500|Starter Relay Circuit  ;
+P061600|Starter Relay Circuit Low  ;
+P061700|Starter Relay Circuit High  ;
+P061A00|Internal Control Module Torque Performance  ;
+P061B62|Internal Control Module Torque Calculation Performance Algorithm Based Failures Signal compare failure;
+P061F00|Internal Control Module Throttle Actuator Controller Performance  ;
+"P062700|Fuel Pump ""A"" Control Circuit/Open  ;"
+"P062800|Fuel Pump ""A"" Control Circuit Low  ;"
+"P062900|Fuel Pump ""A"" Control Circuit High  ;"
+P062B64|Internal Control Module Fuel Inje Algorithm Based Failures Signal plausibility failure;
+P062B96|Internal Control Module Fuel Injector C Component Failures Component internal failure;
+P062B9A|Internal Control Module Fuel Injector C Component Failures Component or System Operating Conditions;
+P063000|VIN Not Programmed or Incompatible - ECM  ;
+P063300|Immobilizer Key Not Programmed - ECM/PCM  ;
+P063351|Immobilizer Key Not Programmed - ECM/PCM System Programming Failures Not programmed;
+"P063400|Control Module Internal Temperature ""A"" Too High  ;"
+"P064101|Sensor Reference Voltage ""A"" Circuit/Open  General electrical failure;"
+"P064111|Sensor Reference Voltage ""A"" Circuit/Open General Electrical Failures Circuit short to ground;"
+"P064116|Sensor Reference Voltage ""A"" Circuit/Open General Electrical Failures Circuit voltage below threshold;"
+"P064117|Sensor Reference Voltage ""A"" Circuit/Open General Electrical Failures Circuit voltage above threshold;"
+"P06414B|Sensor Reference Voltage ""A"" Circuit/Open System Internal Failures Over temperature;"
+P064500|A/C Clutch Relay Control Circuit  ;
+P064600|A/C Clutch Relay Control Circuit Low  ;
+P064700|A/C Clutch Relay Control Circuit High  ;
+P064D00|Internal Control Module O2 Sensor Processor Performance - Bank 1  ;
+P064D13|Internal Control Module O2 Sensor Pro General Electrical Failures Circuit open;
+"P065101|Sensor Reference Voltage ""B"" Circuit/Open  General electrical failure;"
+"P065111|Sensor Reference Voltage ""B"" Circuit/Open General Electrical Failures Circuit short to ground;"
+"P065116|Sensor Reference Voltage ""B"" Circuit/Open General Electrical Failures Circuit voltage below threshold;"
+"P065117|Sensor Reference Voltage ""B"" Circuit/Open General Electrical Failures Circuit voltage above threshold;"
+"P06514B|Sensor Reference Voltage ""B"" Circuit/Open System Internal Failures Over temperature;"
+P065A00|Generator System Performance  ;
+P065B87|Generator Control Circuit Range/Performance Bus Signal / Message Failures Missing message;
+P065C00|Generator Mechanical Performance  ;
+"P066716|Control Module Internal Temperature Sensor ""A"" Range/Performance General Electrical Failures Circuit voltage below threshold;"
+"P066717|Control Module Internal Temperature Sensor ""A"" Range/Performance General Electrical Failures Circuit voltage above threshold;"
+"P066764|Control Module Internal Temperature Sensor ""A"" Range/Performance Algorithm Based Failures Signal plausibility failure;"
+"P066800|Control Module Internal Temperature Sensor ""A"" Circuit Low  ;"
+"P066900|Control Module Internal Temperature Sensor ""A""  Circuit High  ;"
+P068500|ECM/PCM Power Relay Control Circuit/Open  ;
+P068572|ECM/PCM Power Relay Control Circuit/Open Mechanical Failures Actuator stuck open;
+P068600|ECM/PCM Power Relay Control Circuit Low  ;
+P06869E|ECM/PCM Power Relay Control Circuit Low Component Failures Stuck On;
+P068700|ECM/PCM Power Relay Control Circuit High  ;
+P069100|Fan 1 Control Circuit Low  ;
+P069200|Fan 1 Control Circuit High  ;
+P069300|Fan 2 Control Circuit Low  ;
+P069400|Fan 2 Control Circuit High  ;
+"P069701|Sensor Reference Voltage ""C"" Circuit/Open  General electrical failure;"
+"P069711|Sensor Reference Voltage ""C"" Circuit/Open General Electrical Failures Circuit short to ground;"
+"P069716|Sensor Reference Voltage ""C"" Circuit/Open General Electrical Failures Circuit voltage below threshold;"
+"P069717|Sensor Reference Voltage ""C"" Circuit/Open General Electrical Failures Circuit voltage above threshold;"
+"P06974B|Sensor Reference Voltage ""C"" Circuit/Open System Internal Failures Over temperature;"
+P06B600|Internal Control Module Knock/Combustion Vibration Sensor Processor 1 Performance  ;
+P06B842|Internal Control Module Non-Volatile Random Access Memory (NVRAM) Error System Internal Failures General memory failure;
+P06B843|Internal Control Module Non-Volatile Random Access Memory (NVRAM) Error System Internal Failures Special memory failure;
+P06DA00|Engine Oil Pressure Control Circuit/Open  ;
+P06DB00|Engine Oil Pressure Control Circuit Low  ;
+P06DC00|Engine Oil Pressure Control Circuit High  ;
+P06DD00|Engine Oil Pressure Control Circuit Performance/Stuck Off  ;
+P06DD4B|Engine Oil Pressure Control Circuit Performance/Stuck Off System Internal Failures Over temperature;
+P06DE00|Engine Oil Pressure Control Circuit Stuck On  ;
+P06E909|Engine Starter Performance  Component Failures;
+P06E993|Engine Starter Performance Component Failures No operation;
+P070000|Transmission Control System (MIL Request)  ;
+P070168|Transmission Control System Range/Performance Algorithm Based Failures Event information;
+P078098|Shift Malfunction Component Failures Component or system over temperature;
+"P0A0500|Motor Electronics Coolant Pump ""A"" Control Circuit/Open  ;"
+"P0A0600|Motor Electronics Coolant Pump ""A"" Control Circuit Low  ;"
+P0A0700|Motor Electronics Coolant Pump Control Circuit High  ;
+P0A3B00|Generator Over Temperature  ;
+"P119F68|Dependability ECM Related Fault, Service Required Algorithm Based Failures Event information;"
+"P124968|Dependability ECM Related Fault, Service Urgent Algorithm Based Failures Event information;"
+P161A86|Incorrect Response from Immobilizer Control Module Bus Signal / Message Failures Signal invalid;
+P161B86|Incorrect Response from Secondary Immobilizer Module Bus Signal / Message Failures Signal invalid;
+P208800|A Camshaft Position Actuator Control Circuit Low Bank 1  ;
+P208900|A Camshaft Position Actuator Control Circuit High Bank 1  ;
+P209000|B Camshaft Position Actuator Control Circuit Low Bank 1  ;
+P209100|B Camshaft Position Actuator Control Circuit High Bank 1  ;
+P209600|Post Catalyst Fuel Trim System Too Lean Bank 1  ;
+P209700|Post Catalyst Fuel Trim System Too Rich Bank 1  ;
+"P210000|Throttle Actuator ""A"" Control Motor Circuit /Open  ;"
+"P210100|Throttle Actuator ""A"" Control  Motor Circuit Range/Performance  ;"
+"P21014B|Throttle Actuator ""A"" Control  Motor Circuit Range/Performance System Internal Failures Over temperature;"
+"P210300|Throttle Actuator ""A"" Control Motor Circuit High  ;"
+"P210900|Throttle / Pedal Position Sensor ""A"" Minimum Stop Performance  ;"
+"P210921|Throttle / Pedal Position Sensor ""A"" Minimum Stop Performance General Signal Failures Signal amplitude < minimum;"
+"P210922|Throttle / Pedal Position Sensor ""A"" Minimum Stop Performance General Signal Failures Signal amplitude > maximum;"
+"P210954|Throttle / Pedal Position Sensor ""A"" Minimum Stop Performance System Programming Failures Missing calibration;"
+"P211100|Throttle Actuator ""A"" Control System - Stuck Open  ;"
+"P211177|Throttle Actuator ""A"" Control System - Stuck Open Mechanical Failures Commanded position not reachable;"
+"P211900|Throttle Actuator ""A"" Control Throttle Body Range/Performance  ;"
+"P212036|Throttle/Pedal Position Sensor/Switch ""D"" Circuit FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal frequency too low;"
+"P212037|Throttle/Pedal Position Sensor/Switch ""D"" Circuit FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal frequency too high;"
+"P212200|Throttle/Pedal Position Sensor/Switch ""D"" Circuit Low  ;"
+"P212300|Throttle/Pedal Position Sensor/Switch ""D"" Circuit High  ;"
+"P212700|Throttle/Pedal Position Sensor/Switch ""E"" Circuit Low  ;"
+"P212800|Throttle/Pedal Position Sensor/Switch ""E"" Circuit High  ;"
+"P213800|Throttle/Pedal Position Sensor/Switch ""D""/"" E"" Voltage Correlation  ;"
+"P213862|Throttle/Pedal Position Sensor/Switch ""D""/"" E"" Voltage Correlation Algorithm Based Failures Signal compare failure;"
+"P214800|Fuel Injector Group ""A"" Supply Voltage Circuit High  ;"
+"P215100|Fuel Injector Group ""B"" Supply Voltage Circuit High  ;"
+"P215400|Fuel Injector Group ""C"" Supply Voltage Circuit High  ;"
+P215A00|Vehicle Speed / Wheel Speed Correlation  ;
+"P217621|Throttle Actuator ""A"" Control System - Idle Position Not Learned General Signal Failures Signal amplitude < minimum;"
+"P217622|Throttle Actuator ""A"" Control System - Idle Position Not Learned General Signal Failures Signal amplitude > maximum;"
+"P217662|Throttle Actuator ""A"" Control System - Idle Position Not Learned Algorithm Based Failures Signal compare failure;"
+"P217685|Throttle Actuator ""A"" Control System - Idle Position Not Learned Bus Signal / Message Failures Signal above allowable range;"
+"P219500|O2 Sensor Signal Biased/Stuck Lean - Bank 1, Sensor 1  ;"
+"P219600|O2 Sensor Signal Biased/Stuck Rich - Bank 1, Sensor 1  ;"
+"P222600|Barometric Pressure Sensor ""A"" Circuit  ;"
+"P222700|Barometric Pressure Sensor ""A"" Circuit Range/Performance  ;"
+"P222721|Barometric Pressure Sensor ""A"" Circuit Range/Performance General Signal Failures Signal amplitude < minimum;"
+"P222722|Barometric Pressure Sensor ""A"" Circuit Range/Performance General Signal Failures Signal amplitude > maximum;"
+P222784|Barometric Pressure Sensor  Bus Signal / Message Failures Signal below allowable range;
+P222785|Barometric Pressure Sensor  Bus Signal / Message Failures Signal above allowable range;
+"P222800|Barometric Pressure Sensor ""A"" Circuit Low  ;"
+"P222900|Barometric Pressure Sensor ""A"" Circuit High  ;"
+"P223200|O2 Sensor Signal Circuit Shorted to Heater Circuit - Bank 1, Sensor 2  ;"
+"P223700|O2 Sensor Positive Current Control Circuit/Open - Bank 1, Sensor 1  ;"
+"P223713|O2 Sensor Positive Current Control Circuit/Open - Bank 1, Sensor 1 General Electrical Failures Circuit open;"
+"P224300|O2 Sensor Reference Voltage Circuit/Open - Bank 1, Sensor 1  ;"
+"P225100|O2 Sensor Negative Current Control Circuit/Open - Bank 1, Sensor 1  ;"
+"P226100|Turbocharger/Supercharger Bypass Valve ""A"" - Mechanical  ;"
+P226B00|Turbocharger/Supercharger Boost Pressure Too High - Mechanical  ;
+P226D00|Particulate Filter Deteriorated/Missing Substrate Bank 1  ;
+"P227000|O2 Sensor Signal Stuck Lean - Bank 1, Sensor 2  ;"
+"P227100|O2 Sensor Signal Stuck Rich - Bank 1, Sensor 2  ;"
+"P230000|Ignition Coil ""A"" Primary Control Circuit Low  ;"
+"P230100|Ignition Coil ""A"" Primary Control Circuit High  ;"
+"P230300|Ignition Coil ""B"" Primary Control Circuit Low  ;"
+"P230400|Ignition Coil ""B"" Primary Control Circuit High  ;"
+"P230600|Ignition Coil ""C"" Primary Control Circuit Low  ;"
+"P230700|Ignition Coil ""C"" Primary Control Circuit High  ;"
+"P230900|Ignition Coil ""D"" Primary Control Circuit Low  ;"
+"P231000|Ignition Coil ""D"" Primary Control Circuit High  ;"
+P240000|Evaporative Emission System Leak Detection Pump Control Circuit/Open  ;
+P240100|Evaporative Emission System Leak Detection Pump Control Circuit Low  ;
+P240200|Evaporative Emission System Leak Detection Pump Control Circuit High  ;
+P240400|Evaporative Emission System Leak Detection Pump Sense Circuit Range/Performance  ;
+P240700|Evaporative Emission System Leak Detection Pump Sense Circuit Intermittent/Erratic  ;
+P24072F|Evaporative Emission System Leak Detection Pump Sense Circuit Intermittent/Erratic General Signal Failures Signal erratic;
+"P241400|O2 Sensor Exhaust Sample Error Bank 1, Sensor 1  ;"
+P242200|Evaporative Emission Control System Vent Valve Stuck Closed  ;
+P244A00|Particulate Filter Differential Pressure Too Low (Bank 1)  ;
+P244B00|Particulate Filter Differential Pressure Too High (Bank 1)  ;
+"P245264|Particulate Filter Pressure Sensor ""A"" Circuit Algorithm Based Failures Signal plausibility failure;"
+"P245292|Particulate Filter Pressure Sensor ""A"" Circuit Component Failures Performance or incorrect operation;"
+"P245296|Particulate Filter Pressure Sensor ""A"" Circuit Component Failures Component internal failure;"
+"P245298|Particulate Filter Pressure Sensor ""A"" Circuit Component Failures Component or system over temperature;"
+"P2452A1|Particulate Filter Pressure Sensor ""A"" Circuit General Electrical Failures System Voltage;"
+"P245309|Particulate Filter Pressure Sensor ""A"" Circuit Range/Performance  Component Failures;"
+"P24532A|Particulate Filter Pressure Sensor ""A"" Circuit Range/Performance General Signal Failures Signal Stuck In Range;"
+"P24534A|Particulate Filter Pressure Sensor ""A"" Circuit Range/Performance System Internal Failures Incorrect component installed;"
+"P245364|Particulate Filter Pressure Sensor ""A"" Circuit Range/Performance Algorithm Based Failures Signal plausibility failure;"
+"P245399|Particulate Filter Pressure Sensor ""A"" Circuit Range/Performance Component Failures Exceeded Learning Limit;"
+"P245400|Particulate Filter Pressure Sensor ""A"" Circuit Low  ;"
+"P245500|Particulate Filter Pressure Sensor ""A"" Circuit High  ;"
+P246300|Particulate Filter Restriction - Soot Accumulation (Bank 1)  ;
+P24A400|Particulate Filter Restriction - Soot Accumulation Too High (Bank 1)  ;
+P24B900|EVAP System Leak Detection Pump Pressure Sensor Circuit Range/Performance  ;
+P24BA00|EVAP System Leak Detection Pump Pressure Sensor Circuit Low  ;
+P24BB00|EVAP System Leak Detection Pump Pressure Sensor Circuit High  ;
+P24BD00|EVAP System Leak Detection Pump Vacuum Switching Valve Control Circuit/Open  ;
+P24BE00|EVAP System Leak Detection Pump Vacuum Switching Valve Control Circuit Low  ;
+P24BF00|EVAP System Leak Detection Pump Vacuum Switching Valve Control Circuit High  ;
+P24C100|EVAP System Leak Detection Pump Vacuum Switching Valve Performance/Stuck Off  ;
+P250C00|Engine Oil Level Sensor Circuit Low  ;
+P250D00|Engine Oil Level Sensor Circuit High  ;
+P250F68|Engine Oil Level Too Low Algorithm Based Failures Event information;
+P250F7B|Engine Oil Level Too Low Mechanical Failures Low fluid level;
+P254028|Low Pressure Fuel System Sensor C General Signal Failures Signal bias level out of range / zero adjustment failure;
+P254029|Low Pressure Fuel System S General Signal Failures Signal signal invalid;
+"P256400|Turbocharger Boost Control Position Sensor ""A"" Circuit Low  ;"
+"P256500|Turbocharger Boost Control Position Sensor ""A"" Circuit High  ;"
+"P25B000|Fuel Level Sensor ""A"" Stuck  ;"
+"P25DE00|""A"" Camshaft Position - Unable to Achieve Locked Position  Bank 1  ;"
+"P25E400|""B"" Camshaft Position - Unable to Achieve Locked Position  Bank 1  ;"
+P261000|ECM/PCM Engine Off Timer Performance  ;
+P261100|A/C Refrigerant Distribution Valve Control Circuit/Open  ;
+P261200|A/C Refrigerant Distribution Valve Control Circuit Low  ;
+P261300|A/C Refrigerant Distribution Valve Control Circuit High  ;
+P261700|Crankshaft Position Output Circuit/Open  ;
+P262B00|Control Module Power Off Timer Performance  ;
+P26CA00|Engine Coolant Pump Control Circuit/Open  ;
+P26CC00|Engine Coolant Pump Control Circuit Low  ;
+P26CD00|Engine Coolant Pump Control Circuit High  ;
+P26CF00|Engine Coolant Pump Control Module System Voltage  ;
+"P26E400|Starter Relay ""B"" Circuit  ;"
+"P26E500|Starter Relay ""B"" Circuit Low  ;"
+"P26E600|Starter Relay ""B"" Circuit High  ;"
+"P2A0100|O2 Circuit Range/Performance (Bank 1, Sensor 2)  ;"
+P2B0000|Cylinder 1 Injection Pulse Performance  ;
+P2B0100|Cylinder 2 Injection Pulse Performance  ;
+P2B0200|Cylinder 3 Injection Pulse Performance  ;
+P2B0300|Cylinder 4 Injection Pulse Performance  ;
+P301800|Electrical Coolant Pump - Over Current  ;
+P301900|Electrical Coolant Pump - Low Fluid Level  ;
+P301A00|Electrical Coolant Pump - Over Temperature  ;
+P301B00|Electrical Coolant Pump - Blocked Impeller  ;
+P301C00|Electrical Coolant Pump - Emergency Run Switch  ;
+C007300|Delivered Driving Torque  ;
+C007385|Delivered Driving Torque Bus Signal / Message Failures Signal above allowable range;
+C007400|Requested Driving Torque  ;
+C050000|Left Front Wheel Speed Sensor Circuit/Open  ;
+C050100|Left Front Wheel Speed Sensor Range/Performance  ;
+C050200|Left Front Wheel Speed Sensor Circuit Low  ;
+C050300|Left Front Wheel Speed Sensor Circuit High  ;
+C050600|Right Front Wheel Speed Sensor Circuit/Open  ;
+C050700|Right Front Wheel Speed Sensor Range/Performance  ;
+C050800|Right Front Wheel Speed Sensor Circuit Low  ;
+C050900|Right Front Wheel Speed Sensor Circuit High  ;
+C050C00|Left Rear Wheel Speed Sensor Circuit/Open  ;
+C050D00|Left Rear Wheel Speed Sensor Range/Performance  ;
+C050E00|Left Rear Wheel Speed Sensor Circuit Low  ;
+C050F00|Left Rear Wheel Speed Sensor Circuit High  ;
+C051200|Right Rear Wheel Speed Sensor Circuit/Open  ;
+C051300|Right Rear Wheel Speed Sensor Range/Performance  ;
+C051400|Right Rear Wheel Speed Sensor Circuit Low  ;
+C051500|Right Rear Wheel Speed Sensor Circuit High  ;
+B10A248|Crash Input System Internal Failures Supervision software failure;
+"U007300|Control Module Communication Bus ""A"" Off  ;"
+"U007400|Control Module Communication Bus ""B"" Off  ;"
+"U007500|Control Module Communication Bus ""C"" Off  ;"
+U010187|Lost Communication With Transmission Control Module TCM Bus Signal / Message Failures Missing message;
+U010300|Lost Communication With Gear Shift Control Module A  ;
+U012287|Lost Communication With Suspension Control Module SUM Bus Signal / Message Failures Missing message;
+U012687|Lost Communication With Steering Angle Sensor SAS Bus Signal / Message Failures Missing message;
+U012A00|Lost Communication With Vehicle Dynamics Domain Master VDDM  ;
+U014000|Lost Communication With Central Electronic Module CEM  ;
+U014087|Lost Communication With Central Electronic Module CEM Bus Signal / Message Failures Missing message;
+"U014687|Lost Communication With Gateway ""A"" Bus Signal / Message Failures Missing message;"
+U015100|Lost Communication With Supplement Restraint System SRS  ;
+U015187|Lost Communication With Supplement Restraint System SRS Bus Signal / Message Failures Missing message;
+U015587|Lost Communication With Driver Information Module DIM Bus Signal / Message Failures Missing message;
+U015987|Lost Communication With Parking Assistance Module PAM Bus Signal / Message Failures Missing message;
+U016487|Lost Communication With Climate Control Module CCM Bus Signal / Message Failures Missing message;
+U019F00|Lost Communication With Engine Coolant Pump Control Module  ;
+U021487|Lost Communication With Keyless Vehicle Module KVM Bus Signal / Message Failures Missing message;
+U023587|Lost Communication With Closing Velocity Module CVM Bus Signal / Message Failures Missing message;
+U042E00|Invalid Data Received From Generator Control Module  ;
+U046900|Invalid Data Received From Starter / Generator Control Module  ;
+U04A000|Invalid Data Received From Engine Coolant Pump Control Module  ;
+"U060100|Lost Communication With Particulate Filter Pressure Sensor ""A""  ;"
+"U060141|Lost Communication With Particulate Filter Pressure Sensor ""A"" System Internal Failures General checksum failure;"
+"U060F00|Lost Communication With Mass or Volume Air Flow Sensor ""A""  ;"
+"U067600|Lost Communication With Fuel Level Sensor ""A""  ;"
+"U102268|ECU Quiescent Current Too High, No Network Communication Requested  Algorithm Based Failures Event information;"
+U130001|LIN Bus #1  General electrical failure;
+U130101|LIN Bus #2  General electrical failure;
+U130201|LIN Bus #3  General electrical failure;
+U201208|Car Configuration Parameter(s)  Bus Signal / Message Failures;
+U230054|Central Configuration System Programming Failures Missing calibration;
+U230055|Central Configuration System Programming Failures Not configured;
+U230056|Central Configuration System Programming Failures Invalid / incompatible configuration;
+"U350100|Control Module Input Power ""A"" Circuit Low  ;"
+"U350200|Control Module Input Power ""A"" Circuit High  ;"

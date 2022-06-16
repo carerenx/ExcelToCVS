@@ -1,0 +1,280 @@
+P021800|Transmission Fluid Overtemperature Condition  ;
+P060100|Internal Control Module Memory Checksum Error  ;
+P060694|Control Module Processor Component Failures Unexpected operation;
+P060699|Control Module Processor Component Failures Exceeded Learning Limit;
+P060700|Control Module Performance  ;
+P060742|Control Module Performance System Internal Failures General memory failure;
+P060744|Control Module Performance System Internal Failures Data memory failure;
+P060748|Control Module Performance System Internal Failures Supervision software failure;
+P060792|Control Module Performance Component Failures Performance or incorrect operation;
+P060794|Control Module Performance Component Failures Unexpected operation;
+P060A68|Internal Control Module Monitoring Processor Performance Algorithm Based Failures Event information;
+P060A86|Internal Control Module Monitoring Processor Performance Bus Signal / Message Failures Signal invalid;
+P060C47|Internal Control Module Main Processor Performance System Internal Failures Watchdog / safety µC failure;
+P060C48|Internal Control Module Main Processor Performance System Internal Failures Supervision software failure;
+P060C49|Internal Control Module Main Processor Performance System Internal Failures Internal electronic failure;
+P060C68|Internal Control Module Main Processor Performance Algorithm Based Failures Event information;
+P061B00|Internal Control Module Torque Calculation Performance  ;
+"P065700|Actuator Supply Voltage ""A"" Circuit/Open  ;"
+"P065800|Actuator Supply Voltage ""A"" Circuit Low  ;"
+"P066600|Control Module Internal Temperature Sensor ""A"" Circuit  ;"
+"P066601|Control Module Internal Temperature Sensor ""A"" Circuit  General electrical failure;"
+"P066698|Control Module Internal Temperature Sensor ""A"" Circuit Component Failures Component or system over temperature;"
+"P06AB00|Control Module Internal Temperature Sensor ""B"" Circuit  ;"
+"P06B100|Sensor Power Supply ""A"" Circuit Low  ;"
+"P06B200|Sensor Power Supply ""A"" Circuit High  ;"
+"P071015|Transmission Fluid Temperature Sensor ""A"" Circuit General Electrical Failures Circuit short to battery or open;"
+"P071128|Transmission Fluid Temperature Sensor ""A"" Circuit Range/Performance General Signal Failures Signal bias level out of range / zero adjustment failure;"
+"P071164|Transmission Fluid Temperature Sensor ""A"" Circuit Range/Performance Algorithm Based Failures Signal plausibility failure;"
+"P071211|Transmission Fluid Temperature Sensor ""A"" Circuit Low General Electrical Failures Circuit short to ground;"
+"P071512|Turbine/Input Shaft Speed Sensor ""A"" Circuit General Electrical Failures Circuit short to battery;"
+"P071514|Turbine/Input Shaft Speed Sensor ""A"" Circuit General Electrical Failures Circuit short to ground or open;"
+"P071516|Turbine/Input Shaft Speed Sensor ""A"" Circuit General Electrical Failures Circuit voltage below threshold;"
+"P07151C|Turbine/Input Shaft Speed Sensor ""A"" Circuit General Electrical Failures Circuit voltage out of range;"
+"P071528|Turbine/Input Shaft Speed Sensor ""A"" Circuit General Signal Failures Signal bias level out of range / zero adjustment failure;"
+"P071564|Turbine/Input Shaft Speed Sensor ""A"" Circuit Algorithm Based Failures Signal plausibility failure;"
+"P071600|Turbine/Input Shaft Speed Sensor ""A"" Circuit Range/Performance  ;"
+"P07181F|Turbine/Input Shaft Speed Sensor ""A"" Circuit Intermittent General Electrical Failures Circuit intermittent;"
+P072012|Output Shaft Speed Sensor Circuit General Electrical Failures Circuit short to battery;
+P072014|Output Shaft Speed Sensor Circuit General Electrical Failures Circuit short to ground or open;
+P072016|Output Shaft Speed Sensor Circuit General Electrical Failures Circuit voltage below threshold;
+P07201C|Output Shaft Speed Sensor Circuit General Electrical Failures Circuit voltage out of range;
+P072028|Output Shaft Speed Sensor Circuit General Signal Failures Signal bias level out of range / zero adjustment failure;
+P072064|Output Shaft Speed Sensor Circuit Algorithm Based Failures Signal plausibility failure;
+P072100|Output Shaft Speed Sensor Circuit Range/Performance  ;
+P072900|Gear 6 Incorrect Ratio  ;
+P072B00|Stuck in Reverse  ;
+P072C00|Stuck in Gear 1  ;
+P072D00|Stuck in Gear 2  ;
+P072E00|Stuck in Gear 3  ;
+P072F00|Stuck in Gear 4  ;
+P073100|Gear 1 Incorrect Ratio  ;
+P073200|Gear 2 Incorrect Ratio  ;
+P073300|Gear 3 Incorrect Ratio  ;
+P073400|Gear 4 Incorrect Ratio  ;
+P073500|Gear 5 Incorrect Ratio  ;
+P073600|Reverse Incorrect Ratio  ;
+P073A00|Stuck in Gear 5  ;
+P073B00|Stuck in Gear 6  ;
+P073C00|Stuck in Gear 7  ;
+P073E00|Unable to Engage Reverse  ;
+P073F00|Unable to Engage Gear 1  ;
+P074A00|Unable to Engage Gear 2  ;
+P074B00|Unable to Engage Gear 3  ;
+P074C00|Unable to Engage Gear 4  ;
+P074D00|Unable to Engage Gear 5  ;
+P074E00|Unable to Engage Gear 6  ;
+P074F00|Unable to Engage Gear 7  ;
+P076F00|Gear 7 Ratio Incorrect  ;
+P077F00|Reverse 2 Incorrect Ratio  ;
+P078084|Shift Malfunction Bus Signal / Message Failures Signal below allowable range;
+"P07B200|Transmission Park Position Sensor/Switch ""A"" Circuit/Open  ;"
+"P07B300|Transmission Park Position Sensor/Switch ""A"" Circuit Low  ;"
+"P07B500|Transmission Park Position Sensor/Switch ""A"" Circuit Performance/Low  ;"
+"P07B600|Transmission Park Position Sensor/Switch ""A"" Circuit Performance High  ;"
+P07DC00|Incorrect Shift from Gear 1  ;
+P07DD00|Incorrect Shift from Gear 2  ;
+P07DE00|Incorrect Shift from Gear 3  ;
+P07DF00|Incorrect Shift from Gear 4  ;
+P07E000|Incorrect Shift from Gear 5  ;
+P07E100|Incorrect Shift from Gear 6  ;
+P07E200|Incorrect Shift from Gear 7  ;
+P07E400|Unable to Engage Park  ;
+P07E600|Stuck in Park  ;
+P07F600|Gear 9 Incorrect Ratio  ;
+"P080500|Clutch Position Sensor ""A"" Circuit  ;"
+"P080502|Clutch Position Sensor ""A"" Circuit  General signal failure;"
+"P080527|Clutch Position Sensor ""A"" Circuit General Signal Failures Signal rate of change above threshold;"
+"P080529|Clutch Position Sensor ""A"" Circuit General Signal Failures Signal signal invalid;"
+"P0805A1|Clutch Position Sensor ""A"" Circuit General Electrical Failures System Voltage;"
+"P080600|Clutch Position Sensor ""A"" Circuit Range/Performance  ;"
+P081000|Clutch Position Control Error  ;
+P081004|Clutch Position Control Error  System Internal Failures;
+"P081100|Excessive Clutch ""A"" Slippage  ;"
+"P081E00|Excessive Clutch ""B"" Slippage  ;"
+"P084000|Transmission Fluid Pressure Sensor/Switch ""A"" Circuit  ;"
+"P084500|Transmission Fluid Pressure Sensor/Switch ""B"" Circuit  ;"
+"P087A00|Clutch Position Sensor ""B"" Circuit  ;"
+"P087A02|Clutch Position Sensor ""B"" Circuit  General signal failure;"
+"P087A27|Clutch Position Sensor ""B"" Circuit General Signal Failures Signal rate of change above threshold;"
+"P087A29|Clutch Position Sensor ""B"" Circuit General Signal Failures Signal signal invalid;"
+"P087AA1|Clutch Position Sensor ""B"" Circuit General Electrical Failures System Voltage;"
+"P087B00|Clutch Position Sensor ""B"" Circuit Range/Performance  ;"
+P0882A1|TCM Power Input Signal Low General Electrical Failures System Voltage;
+P0882A2|TCM Power Input Signal Low General Electrical Failures System Voltage Low;
+P088300|TCM Power Input Signal High  ;
+P088301|TCM Power Input Signal High  General electrical failure;
+P088319|TCM Power Input Signal High General Electrical Failures Circuit current above threshold;
+P0883A1|TCM Power Input Signal High General Electrical Failures System Voltage;
+P0883A3|TCM Power Input Signal High General Electrical Failures System Voltage High;
+"P090102|Clutch ""A"" Actuator Control Circuit Range/Performance  General signal failure;"
+"P090111|Clutch ""A"" Actuator Control Circuit Range/Performance General Electrical Failures Circuit short to ground;"
+"P090116|Clutch ""A"" Actuator Control Circuit Range/Performance General Electrical Failures Circuit voltage below threshold;"
+"P090129|Clutch ""A"" Actuator Control Circuit Range/Performance General Signal Failures Signal signal invalid;"
+"P090143|Clutch ""A"" Actuator Control Circuit Range/Performance System Internal Failures Special memory failure;"
+"P09014B|Clutch ""A"" Actuator Control Circuit Range/Performance System Internal Failures Over temperature;"
+"P090198|Clutch ""A"" Actuator Control Circuit Range/Performance Component Failures Component or system over temperature;"
+"P0901A1|Clutch ""A"" Actuator Control Circuit Range/Performance General Electrical Failures System Voltage;"
+"P090268|Clutch ""A"" Actuator Control Circuit Low Algorithm Based Failures Event information;"
+P090402|Gate Select Position Circuit [senses left / right position]  General signal failure;
+P090416|Gate Select Position Circuit [senses left / right position] General Electrical Failures Circuit voltage below threshold;
+P090417|Gate Select Position Circuit [senses left / right position] General Electrical Failures Circuit voltage above threshold;
+P090429|Gate Select Position Circuit [senses left / right position] General Signal Failures Signal signal invalid;
+P0904A2|Gate Select Position Circuit [senses left / right position] General Electrical Failures System Voltage Low;
+P0904A3|Gate Select Position Circuit [senses left / right position] General Electrical Failures System Voltage High;
+P090600|Gate Select Position Circuit Low  ;
+P090700|Gate Select Position Circuit High  ;
+"P090B02|Clutch ""B"" Actuator Control Circuit Performance  General signal failure;"
+"P090B11|Clutch ""B"" Actuator Control Circuit Performance General Electrical Failures Circuit short to ground;"
+"P090B16|Clutch ""B"" Actuator Control Circuit Performance General Electrical Failures Circuit voltage below threshold;"
+"P090B29|Clutch ""B"" Actuator Control Circuit Performance General Signal Failures Signal signal invalid;"
+"P090B43|Clutch ""B"" Actuator Control Circuit Performance System Internal Failures Special memory failure;"
+"P090B4B|Clutch ""B"" Actuator Control Circuit Performance System Internal Failures Over temperature;"
+"P090B98|Clutch ""B"" Actuator Control Circuit Performance Component Failures Component or system over temperature;"
+"P090BA1|Clutch ""B"" Actuator Control Circuit Performance General Electrical Failures System Voltage;"
+"P090C68|Clutch ""B"" Actuator Control Circuit Low Algorithm Based Failures Event information;"
+P091001|Gate Select Actuator Circuit/Open [left / right motion]  General electrical failure;
+P091017|Gate Select Actuator Circuit/Open [left / right motion] General Electrical Failures Circuit voltage above threshold;
+P091019|Gate Select Actuator Circuit/Open [left / right motion] General Electrical Failures Circuit current above threshold;
+P09104B|Gate Select Actuator Circuit/Open [left / right motion] System Internal Failures Over temperature;
+P091200|Gate Select Actuator Circuit Low  ;
+P091300|Gate Select Actuator Circuit High  ;
+"P091402|Gear Shift Position Circuit [senses forward / rearward position, odd / even gears]  General signal failure;"
+"P091416|Gear Shift Position Circuit [senses forward / rearward position, odd / even gears] General Electrical Failures Circuit voltage below threshold;"
+"P091417|Gear Shift Position Circuit [senses forward / rearward position, odd / even gears] General Electrical Failures Circuit voltage above threshold;"
+"P091429|Gear Shift Position Circuit [senses forward / rearward position, odd / even gears] General Signal Failures Signal signal invalid;"
+"P0914A2|Gear Shift Position Circuit [senses forward / rearward position, odd / even gears] General Electrical Failures System Voltage Low;"
+"P0914A3|Gear Shift Position Circuit [senses forward / rearward position, odd / even gears] General Electrical Failures System Voltage High;"
+P091600|Gear Shift Position Circuit Low  ;
+P091700|Gear Shift Position Circuit High  ;
+"P091C00|Gear Shift Position Circuit ""B"" Low  ;"
+"P091D00|Gear Shift Position Circuit ""B"" High  ;"
+"P092001|Gear Shift Forward Actuator Circuit/Open [forward motion, odd gears, 1,3,5]  General electrical failure;"
+"P092017|Gear Shift Forward Actuator Circuit/Open [forward motion, odd gears, 1,3,5] General Electrical Failures Circuit voltage above threshold;"
+"P092019|Gear Shift Forward Actuator Circuit/Open [forward motion, odd gears, 1,3,5] General Electrical Failures Circuit current above threshold;"
+"P09204B|Gear Shift Forward Actuator Circuit/Open [forward motion, odd gears, 1,3,5] System Internal Failures Over temperature;"
+P092200|Gear Shift Forward Actuator Circuit Low  ;
+P092300|Gear Shift Forward Actuator Circuit High  ;
+P094900|Auto Shift Manual Adaptive Learning Not Done  ;
+P094977|Auto Shift Manual Adaptive Learning Not Done Mechanical Failures Commanded position not reachable;
+P094992|Auto Shift Manual Adaptive Learning Not Done Component Failures Performance or incorrect operation;
+"P095C00|Gear Shift Position Circuit ""C"" Low  ;"
+"P095D00|Gear Shift Position Circuit ""C"" High  ;"
+"P09A400|Gate Select Position Circuit ""B"" Low  ;"
+"P09A500|Gate Select Position Circuit ""B"" High  ;"
+"P09A800|Gate Select Position Circuit ""C"" Low  ;"
+"P09A900|Gate Select Position Circuit ""C"" High  ;"
+P0C2B02|Auxiliary Transmission Fluid Pump Control Module Feedback Signal  General signal failure;
+P0C2B16|Auxiliary Transmission Fluid Pump Control Module Feedback Signal General Electrical Failures Circuit voltage below threshold;
+P0C2B17|Auxiliary Transmission Fluid Pump Control Module Feedback Signal General Electrical Failures Circuit voltage above threshold;
+P0C2B29|Auxiliary Transmission Fluid Pump Control Module Feedback Signal General Signal Failures Signal signal invalid;
+P0C2BA2|Auxiliary Transmission Fluid Pump Control Module Feedback Signal General Electrical Failures System Voltage Low;
+P0C2BA3|Auxiliary Transmission Fluid Pump Control Module Feedback Signal General Electrical Failures System Voltage High;
+P161A86|Incorrect Response from Immobilizer Control Module Bus Signal / Message Failures Signal invalid;
+P162892|Module Ignition Supply Input Component Failures Performance or incorrect operation;
+P215C00|Output Shaft Speed / Wheel Speed Correlation  ;
+"P266900|Actuator Supply Voltage ""B"" Circuit/Open  ;"
+"P267000|Actuator Supply Voltage ""B"" Circuit Low  ;"
+"P268400|Actuator Supply Voltage ""C"" Circuit/Open  ;"
+"P26E700|Actuator Supply Voltage ""D"" Circuit/Open  ;"
+P275392|Transmission Fluid Cooler Control Circuit/Open Component Failures Performance or incorrect operation;
+P275400|Transmission Fluid Cooler Control Circuit Low  ;
+P275515|Transmission Fluid Cooler Control Circuit High General Electrical Failures Circuit short to battery or open;
+"P276512|Input / Turbine Speed Sensor ""B"" Circuit General Electrical Failures Circuit short to battery;"
+"P276514|Input / Turbine Speed Sensor ""B"" Circuit General Electrical Failures Circuit short to ground or open;"
+"P276516|Input / Turbine Speed Sensor ""B"" Circuit General Electrical Failures Circuit voltage below threshold;"
+"P27651C|Input / Turbine Speed Sensor ""B"" Circuit General Electrical Failures Circuit voltage out of range;"
+"P276528|Input / Turbine Speed Sensor ""B"" Circuit General Signal Failures Signal bias level out of range / zero adjustment failure;"
+"P276564|Input / Turbine Speed Sensor ""B"" Circuit Algorithm Based Failures Signal plausibility failure;"
+"P276600|Input / Turbine Speed Sensor ""B"" Circuit Range/Performance  ;"
+"P276D00|Electric/Auxiliary Transmission Fluid Pump ""B"" Motor Current  ;"
+"P276F00|Electric/Auxiliary Transmission Fluid Pump ""B"" Motor Current High  ;"
+"P277A00|Electric/Auxiliary Transmission Fluid Pump ""B"" Hydraulic Leakage  ;"
+"P277C00|Electric/Auxiliary Transmission Fluid Pump ""B"" Motor Stalled  ;"
+"P277C97|Electric/Auxiliary Transmission Fluid Pump ""B"" Motor Stalled Component Failures Component or system operation obstructed or blocked;"
+"P277C9C|Electric/Auxiliary Transmission Fluid Pump ""B"" Motor Stalled Component Failures Low/Insufficient Flow;"
+"P277D00|Electric/Auxiliary Transmission Fluid Pump ""B"" Motor Over Temperature  ;"
+P278600|Gear Shift Actuator Temperature Too High  ;
+P278704|Clutch Temperature Too High  System Internal Failures;
+P278707|Clutch Temperature Too High  Mechanical Failures;
+P278709|Clutch Temperature Too High  Component Failures;
+P278722|Clutch Temperature Too High General Signal Failures Signal amplitude > maximum;
+P278735|Clutch Temperature Too High FM (Frequency Modulated) / PWM (Pulse Width Modulated) Failures Signal high time > maximum;
+P27874B|Clutch Temperature Too High System Internal Failures Over temperature;
+P278798|Clutch Temperature Too High Component Failures Component or system over temperature;
+P27879A|Clutch Temperature Too High Component Failures Component or System Operating Conditions;
+P278800|Auto Shift Manual Adaptive Learning at Limit  ;
+"P27A200|Electric/Auxiliary Transmission Fluid Pump ""B"" Control Circuit/Open   ;"
+"P27A400|Electric/Auxiliary Transmission Fluid Pump ""B"" Control Circuit Low  ;"
+"P27A500|Electric/Auxiliary Transmission Fluid Pump ""B"" Control Circuit High  ;"
+P27E400|Electric/Auxiliary Transmission Fluid Pump Control Valve Circuit Range/Performance  ;
+"P285568|Clutch ""A"" Pressure Charge Performance Algorithm Based Failures Event information;"
+"P285668|Clutch ""B"" Pressure Charge Performance Algorithm Based Failures Event information;"
+"P285700|Clutch ""A"" Pressure Engagement Performance / Too Low  ;"
+"P285768|Clutch ""A"" Pressure Engagement Performance / Too Low Algorithm Based Failures Event information;"
+"P285800|Clutch ""B"" Pressure Engagement Performance / Too Low  ;"
+"P285868|Clutch ""B"" Pressure Engagement Performance / Too Low Algorithm Based Failures Event information;"
+"P285B27|Shift Fork ""A"" Actuator Circuit/Open General Signal Failures Signal rate of change above threshold;"
+"P286D00|Clutch ""A"" Engagement Time Performance/Too Slow  ;"
+"P287100|Clutch ""A"" Performance/Stuck Disengaged  ;"
+"P287500|Clutch ""B"" Engagement Time Performance/Too Slow  ;"
+"P287900|Clutch ""B"" Performance/Stuck Disengaged  ;"
+P287C00|Transmission Adaptive Values Not Learned  ;
+U000187|High Speed CAN Communication Bus Bus Signal / Message Failures Missing message;
+U002887|Vehicle Communication Bus A Bus Signal / Message Failures Missing message;
+U002900|Vehicle Communication Bus A Performance  ;
+U003787|Vehicle Communication Bus B Bus Signal / Message Failures Missing message;
+U003800|Vehicle Communication Bus B Performance  ;
+"U007300|Control Module Communication Bus ""A"" Off  ;"
+"U007400|Control Module Communication Bus ""B"" Off  ;"
+"U007500|Control Module Communication Bus ""C"" Off  ;"
+"U007600|Control Module Communication Bus ""D"" Off  ;"
+U010021|Lost Communication With Engine Control Module ECM General Signal Failures Signal amplitude < minimum;
+U010022|Lost Communication With Engine Control Module ECM General Signal Failures Signal amplitude > maximum;
+U010023|Lost Communication With Engine Control Module ECM General Signal Failures Signal stuck low;
+U010024|Lost Communication With Engine Control Module ECM General Signal Failures Signal stuck high;
+U010025|Lost Communication With Engine Control Module ECM General Signal Failures Signal shape / waveform failure;
+U010026|Lost Communication With Engine Control Module ECM General Signal Failures Signal rate of change below threshold;
+U010029|Lost Communication With Engine Control Module (ECM) General Signal Failures Signal signal invalid;
+U010082|Lost Communication With Engine Control Module (ECM) Bus Signal / Message Failures Alive / sequence counter incorrect / not updated;
+U010083|Lost Communication With Engine Control Module (ECM) Bus Signal / Message Failures Value of signal protection calculation incorrect;
+U010084|Lost Communication With Engine Control Module (ECM) Bus Signal / Message Failures Signal below allowable range;
+U010085|Lost Communication With Engine Control Module (ECM) Bus Signal / Message Failures Signal above allowable range;
+U010086|Lost Communication With Engine Control Module ECM Bus Signal / Message Failures Signal invalid;
+U010087|Lost Communication With Engine Control Module ECM Bus Signal / Message Failures Missing message;
+U01008F|Lost Communication With Engine Control Module (ECM) Bus Signal / Message Failures Erratic;
+"U011502|Lost Communication With ECM/PCM ""B""  General signal failure;"
+"U011587|Lost Communication With ECM/PCM ""B"" Bus Signal / Message Failures Missing message;"
+U011600|Lost Communications with Coolant Temperature Control Module  ;
+U011687|Lost Communications with Coolant Temperature Control Module Bus Signal / Message Failures Missing message;
+U012100|Lost Communication With Brake Control Module BCM  ;
+U012287|Lost Communication With Suspension Module (SUM) Bus Signal / Message Failures Missing message;
+U012800|Lost Communication With Park Brake Module PBM  ;
+U012887|Lost Communication With Park Brake Module PBM Bus Signal / Message Failures Missing message;
+U012900|Lost Communication With Brake System Control Module  ;
+U012A00|Lost Communication With Vehicle Dynamics Domain Master (VDDM)  ;
+U014022|Lost Communication With Central Electronic Module CEM General Signal Failures Signal amplitude > maximum;
+U014024|Lost Communication With Central Electronic Module CEM General Signal Failures Signal stuck high;
+U014088|Lost Communication With Central Electronic Module CEM Bus Signal / Message Failures Bus off;
+"U025921|Lost Communication With Special Purpose Vehicle Control Module ""A"" General Signal Failures Signal amplitude < minimum;"
+U028700|Lost Communication With Transmission Fluid Pump Module  ;
+U041622|Invalid Data Received From Vehicle Dynamics Control Module General Signal Failures Signal amplitude > maximum;
+U041623|Invalid Data Received From Vehicle Dynamics Control Module General Signal Failures Signal stuck low;
+U041624|Invalid Data Received From Vehicle Dynamics Control Module General Signal Failures Signal stuck high;
+U041700|Invalid Data Received From Park Brake Control Module  ;
+U04A000|Invalid Data Received From Engine Coolant Pump Control Module  ;
+U05A786|Invalid Data Received From Safety Integration Control Module Bus Signal / Message Failures Signal invalid;
+U10B151|Immobilizer Key System Programming Failures Not programmed;
+U122600|Frame configuration error  ;
+U122F00|Frame configuration error  ;
+U230054|Central Configuration System Programming Failures Missing calibration;
+U230055|Central Configuration System Programming Failures Not configured;
+U230056|Central Configuration System Programming Failures Invalid / incompatible configuration;
+U300362|Supply Voltage Algorithm Based Failures Signal compare failure;
+U300386|Supply Voltage Bus Signal / Message Failures Signal invalid;
+U300614|Control Module Input Power +30A General Electrical Failures Circuit short to ground or open;
+U300714|Control Module Input Power +30B General Electrical Failures Circuit short to ground or open;
+"U301D12|Control Module Wake-up Circuit ""A"" Performance General Electrical Failures Circuit short to battery;"
+"U301D14|Control Module Wake-up Circuit ""A"" Performance General Electrical Failures Circuit short to ground or open;"
+"U302112|Control Module Wake-up Circuit ""B"" Performance General Electrical Failures Circuit short to battery;"
+"U302114|Control Module Wake-up Circuit ""B"" Performance General Electrical Failures Circuit short to ground or open;"
